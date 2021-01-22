@@ -1,4 +1,4 @@
 <h1> RahulShettyAcademy.com Learning</h1>
-<h2> Hola MARIA!!!
+<h2> Hola, MARIA como estas?
 Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
 <h2> Good Luck and we are almost done with the course.Thankyou</h2>
